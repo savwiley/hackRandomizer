@@ -53,3 +53,15 @@ input {
 input:hover {
   background: #4268d8;
 }
+
+#link {
+  position: fixed;
+  bottom: 5px;
+  right: 10px;
+  color: #000;
+  font-size: 20px;
+}
+
+#link:hover {
+  color: #4268d8;
+}
